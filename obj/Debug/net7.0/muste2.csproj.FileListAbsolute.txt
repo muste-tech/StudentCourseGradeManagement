@@ -26,3 +26,4 @@ C:\Users\OWNER\OneDrive\Desktop\muste2\obj\Debug\net7.0\refint\muste2.dll
 C:\Users\OWNER\OneDrive\Desktop\muste2\obj\Debug\net7.0\muste2.pdb
 C:\Users\OWNER\OneDrive\Desktop\muste2\obj\Debug\net7.0\muste2.genruntimeconfig.cache
 C:\Users\OWNER\OneDrive\Desktop\muste2\obj\Debug\net7.0\ref\muste2.dll
+C:\Users\OWNER\OneDrive\Desktop\muste2\obj\Debug\net7.0\muste2.csproj.AssemblyReference.cache

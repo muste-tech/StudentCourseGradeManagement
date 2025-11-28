@@ -24,6 +24,7 @@ namespace Mustakim
             {
 
                 Console.WriteLine(department.Name + " ");
+                
             }
 
             var salaries = employee.Where(s => s.Salary > 50000);
