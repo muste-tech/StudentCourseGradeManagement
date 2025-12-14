@@ -599,11 +599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OWNER\\OneDrive\\Desktop\\muste2\\muste2.csproj",
+      "projectUniqueName": "C:\\Users\\OWNER\\.dotnet\\StudentCourseGradeManagement\\muste2.csproj",
       "projectName": "muste2",
-      "projectPath": "C:\\Users\\OWNER\\OneDrive\\Desktop\\muste2\\muste2.csproj",
+      "projectPath": "C:\\Users\\OWNER\\.dotnet\\StudentCourseGradeManagement\\muste2.csproj",
       "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OWNER\\OneDrive\\Desktop\\muste2\\obj\\",
+      "outputPath": "C:\\Users\\OWNER\\.dotnet\\StudentCourseGradeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config"
